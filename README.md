@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @devAleixo 
 - 👀 I’m interested in Fullstack development.
-- 🌱 I’m learning Web Development at Le Wagon's bootcamp.
-- 💞️ I’m looking to collaborate on enterprises that gives me the oportunity to learn more, up to the sky!
+- 🌱 I’m formed at Web Development at Le Wagon's bootcamp.
+- 💞️ Building something new!
+- 📄 Graduating at Software Analysis and Development.
 - 📫 Send me an e-mail: contato@devaleixo.com
-
