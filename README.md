@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @devAleixo 
-- 👀 I’m interested in Fullstack development.
+- 👀 I’m interested in Backend development.
 - 🌱 I’m formed in Web Development at Le Wagon's bootcamp.
 - 💞️ Building something new!
-- 📄 Graduating at Software Analysis and Development.
-- 📫 Send me an e-mail: contato@devaleixo.com
+- 📄 Graduating at Software Engineering
+- 📫 Send me an e-mail: gabriel.aleixo061@gmail.com
